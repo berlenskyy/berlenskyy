@@ -299,9 +299,9 @@ Sécurité Informatique          ███████████████�
 
 | Canal | Lien |
 |-------|------|
-| 📧 Email professionnel | berlensky.noel@epsr.ht |
-| 💼 LinkedIn | [linkedin.com/in/berlensky-noel](https://linkedin.com/in/berlensky-noel) |
-| 🐙 GitHub | [github.com/berlensky-noel](https://github.com/berlensky-noel) |
+| 📧 Email professionnel | berlenskyy@gmail.com |
+| 💼 LinkedIn | [linkedin.com/in/berlenskyy](https://linkedin.com/in/berlensky-noel) |
+| 🐙 GitHub | [github.com/berlenskyy](https://github.com/berlensky-noel) |
 | 📍 Localisation | Haïti 🇭🇹 |
 
 </div>
@@ -316,7 +316,7 @@ Sécurité Informatique          ███████████████�
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
-**Fait avec ❤️ depuis Haïti 🇭🇹 — Verrettes, Artibonite**
+<!--**Fait avec ❤️ depuis Haïti 🇭🇹 — Verrettes, Artibonite**-->
 
 *"Code. Enseigne. Transforme."*
 
