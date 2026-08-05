@@ -6,11 +6,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Berlensky%20John%20T.%20NOEL&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20FullStack%20Developer%20%7C%20DBA%20%7C%20Network%20Expert&descAlignY=60&descSize=18" width="100%"/>
 
-<!-- Typing animation -->
+<!-- Typing animation 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=👨‍💻+Ingénieur+Logiciel+%7C+Software+Engineer;🌐+Développeur+FullStack+Web+%26+Mobile;🗄️+Administrateur+de+Base+de+Données;🔌+Expert+en+Réseaux+Informatiques;🎓+Enseignant+en+Informatique;🚀+Building+Solutions+from+Haiti+to+the+World!" alt="Typing SVG" />
 </a>
-
+-->
 <br/>
 
 <!-- Social badges -->
@@ -199,10 +199,10 @@ Disponible: Ouvert aux opportunités & collaborations 🚀
 ## 📊 Statistiques GitHub
 
 <div align="center">
-
+<!--
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=berlenskyy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berlenskyy&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff"/>
-
+ -->
 </div>
 
 <div align="center">
@@ -222,26 +222,26 @@ Disponible: Ouvert aux opportunités & collaborations 🚀
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    PROJETS EN VEDETTE                         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
+<!--
 ## 🚀 Projets en Vedette
 
 <div align="center">
-
+ 
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=berlenskyy&repo=epsr-webapp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" />
 </a>
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=berlenskyy&repo=algorithme-pseudocode-manuel&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" />
 </a>
-
+ 
 </div>
-
+-->
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    TROPHÉES GITHUB                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
+<!--
 ## 🏆 Trophées GitHub
 
 <div align="center">
@@ -249,7 +249,7 @@ Disponible: Ouvert aux opportunités & collaborations 🚀
 <img src="https://github-profile-trophy.vercel.app/?username=berlenskyy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
 
 </div>
-
+ -->
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
